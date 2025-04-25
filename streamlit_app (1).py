@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from fpdf import FPDF
 from datetime import datetime
+import fpdf
 
 st.set_page_config(page_title="NutriMeal AI", page_icon="🥗", layout="centered")
 
